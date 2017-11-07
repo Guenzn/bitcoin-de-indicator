@@ -10,7 +10,7 @@ is paid by bitcoin.de, so you won't pay more as if you register directly.
 ## Features
 This indicator shows the current price of a bitcoin from bitcoin.de.
 
-[Indicator Screenshot](https://raw.githubusercontent.com/Guenzn/bitcoin-de-indicator/master/img/indicator-screenshot.png)
+![Indicator Screenshot](https://raw.githubusercontent.com/Guenzn/bitcoin-de-indicator/master/img/indicator-screenshot.png)
 
 
 ## Installation
