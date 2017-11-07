@@ -25,7 +25,7 @@ Create and change to a directory of your choice, where you want to install the i
 
 Clone the sourcecode from Github
 
-`git https://github.com/Guenzn/bitcoin-de-indicator.git`
+`git clone https://github.com/Guenzn/bitcoin-de-indicator.git`
 
 Run setup to create a desktop file and a startup file, to let the indicator run when you login
 
